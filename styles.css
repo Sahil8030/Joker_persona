@@ -1,0 +1,12 @@
+body{
+  font-family: 'Brush Script MT', cursive;
+    background-color: black;
+  background-image:url(https://m.media-amazon.com/images/I/81XP0ETndkL.jpg);
+  color: green;
+
+  display: flex;
+  align-items: center;
+  
+   
+  
+}
